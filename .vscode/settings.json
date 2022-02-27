@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.bcs": "pseudocode",
+        "*.bsc": "pseudocode",
+        "string_view": "cpp",
+        "thread": "c"
+    }
+}
